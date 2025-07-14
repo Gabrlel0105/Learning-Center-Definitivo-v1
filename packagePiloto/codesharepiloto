@@ -1,0 +1,17 @@
+Pasos:
+
+	Crear proyecto con nombre del enunciado
+	Copiar carpeta shared
+  Copiar 2 package piloto
+  Cambiar nombre de los package por los bc del enunciado
+  Copiar pom y refrescar maven
+  Copiar application properties
+  Cambiar user,password y database de application properties
+	Desarrollar
+
+  alt:
+
+application properties -> https://codeshare.io/tontinpocha
+imagenes -> https://codeshare.io/tontinpochaCrear
+pom -> https://codeshare.io/tontinpochaPom
+Desarrollo -> https://codeshare.io/tontinpochaPaso
